@@ -8,31 +8,41 @@ namespace BLL
 {
     public class Login
     {
-        private string _username = "username";
-        private string _password = "password";
-
-        /*public bool IniciarSesion(string userName, string password)
+        //hardcodee para probar si funciona
+        private List<Usuario> usuarios = new List<Usuario>()
         {
-            throw new NotImplementedException();
-        }*/
+            new Administrador(1, "Ana", "Ruescas", "anaAdmin", "passwordAna"),
+            new Administrador(2, "Ciro", "Coria", "ciroAdmin", "passwordCiro"),
+            new Administrador(3, "Eric", "Perez", "ericAdmin", "passwordEric"),
+            new Administrador(4, "Mica", "Barroso", "micaAdmin", "passwordMica")
+        };
 
-        public bool IniciarSesion(string username, string password) {
+        public bool IniciarSesion(string username, string password)
+        {
 
-            if (string.IsNullOrEmpty(username)) {
+            if (string.IsNullOrEmpty(username))
+            {
                 throw new ArgumentNullException("username");
             }
 
-            if (string.IsNullOrEmpty(password)) {  
-                throw new ArgumentNullException("password"); 
+            if (string.IsNullOrEmpty(password))
+            {
+                throw new ArgumentNullException("password");
             }
 
-            if(_username == username || _password == password) {
-                return true;
-            }
-            else
-            {
-                return false;
-            }
+            //Busca coincidencias 
+            var usuario = usuarios.FirstOrDefault(u => u.User == username && u.Contraseña == password);
+            return usuario != null;
         }
     }
 }
+
+
+
+
+
+
+
+
+
+   
