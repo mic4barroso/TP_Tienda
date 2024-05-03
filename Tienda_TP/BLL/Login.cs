@@ -12,9 +12,9 @@ namespace BLL
         private List<Usuario> usuarios = new List<Usuario>()
         {
             new Administrador(1, "Ana", "Ruescas", "anaAdmin", "passwordAna"),
-            new Administrador(2, "Ciro", "Coria", "ciroAdmin", "passwordCiro"),
-            new Administrador(3, "Eric", "Perez", "ericAdmin", "passwordEric"),
-            new Administrador(4, "Mica", "Barroso", "micaAdmin", "passwordMica")
+            new Gerente(2, "Ciro", "Coria", "ciroAdmin", "passwordCiro"),
+            new AtencionAlCliente(3, "Eric", "Perez", "ericAdmin", "passwordEric"),
+            new Repositor(4, "Mica", "Barroso", "micaAdmin", "passwordMica")
         };
 
         public bool IniciarSesion(string username, string password)

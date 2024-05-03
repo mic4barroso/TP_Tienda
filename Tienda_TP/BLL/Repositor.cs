@@ -6,10 +6,9 @@ using System.Threading.Tasks;
 
 namespace BLL
 {
-    //Administrador hereda de Usuario que es una CLASE ABSTRACTA
-    public class Administrador : Usuario
+    public class Repositor : Usuario
     {
-        public Administrador(int Id, string nombre, string apellido, string user, string contraseña) : base(Id, nombre, apellido, user, contraseña)
+        public Repositor(int Id, string nombre, string apellido, string user, string contraseña) : base(Id, nombre, apellido, user, contraseña)
         {
         }
 
