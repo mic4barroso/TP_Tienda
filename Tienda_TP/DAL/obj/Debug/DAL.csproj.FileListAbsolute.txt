@@ -1,6 +1,0 @@
-C:\Users\barro\source\repos\Tienda_TP\DAL\bin\Debug\DAL.dll
-C:\Users\barro\source\repos\Tienda_TP\DAL\bin\Debug\DAL.pdb
-C:\Users\barro\source\repos\Tienda_TP\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
-C:\Users\barro\source\repos\Tienda_TP\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
-C:\Users\barro\source\repos\Tienda_TP\DAL\obj\Debug\DAL.dll
-C:\Users\barro\source\repos\Tienda_TP\DAL\obj\Debug\DAL.pdb
