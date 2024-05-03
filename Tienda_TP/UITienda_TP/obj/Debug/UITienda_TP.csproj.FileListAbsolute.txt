@@ -1,0 +1,13 @@
+C:\Users\barro\source\repos\Tienda_TP\UITienda_TP\bin\Debug\UITienda_TP.exe.config
+C:\Users\barro\source\repos\Tienda_TP\UITienda_TP\bin\Debug\UITienda_TP.exe
+C:\Users\barro\source\repos\Tienda_TP\UITienda_TP\bin\Debug\UITienda_TP.pdb
+C:\Users\barro\source\repos\Tienda_TP\UITienda_TP\obj\Debug\UITienda_TP.csproj.AssemblyReference.cache
+C:\Users\barro\source\repos\Tienda_TP\UITienda_TP\obj\Debug\UITienda_TP.Form1.resources
+C:\Users\barro\source\repos\Tienda_TP\UITienda_TP\obj\Debug\UITienda_TP.Properties.Resources.resources
+C:\Users\barro\source\repos\Tienda_TP\UITienda_TP\obj\Debug\UITienda_TP.csproj.GenerateResource.cache
+C:\Users\barro\source\repos\Tienda_TP\UITienda_TP\obj\Debug\UITienda_TP.csproj.CoreCompileInputs.cache
+C:\Users\barro\source\repos\Tienda_TP\UITienda_TP\obj\Debug\UITienda_TP.exe
+C:\Users\barro\source\repos\Tienda_TP\UITienda_TP\obj\Debug\UITienda_TP.pdb
+C:\Users\barro\source\repos\Tienda_TP\UITienda_TP\bin\Debug\BLL.dll
+C:\Users\barro\source\repos\Tienda_TP\UITienda_TP\bin\Debug\BLL.pdb
+C:\Users\barro\source\repos\Tienda_TP\UITienda_TP\obj\Debug\UITienda.2C467BCE.Up2Date
